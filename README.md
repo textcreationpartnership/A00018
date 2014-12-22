@@ -33,7 +33,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The lame[n]tacion of EnglandLamentacion of England.1558Approx. 66 KB of XML-encoded text transcribed
+
+1. The Lamētacion of England.
+
 **Types of content**
 
   * There are 4 **verse** lines!
